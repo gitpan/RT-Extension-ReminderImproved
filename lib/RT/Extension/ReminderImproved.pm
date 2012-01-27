@@ -4,7 +4,7 @@ use 5.008003;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 
@@ -27,7 +27,7 @@ This plugin improve the build in reminder function of RT 3.8 with this features:
 	* bugfix: don't show to many user in owner list at edit reminder
 	* bugfix: only record ticket transaction on success
 
-The changes in this extension will be included in RT 4.0.
+The changes in this extension are already included in RT 4.0.
 
 =head1 TODO
 
