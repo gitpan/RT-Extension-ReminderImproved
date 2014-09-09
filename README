@@ -17,13 +17,6 @@ DESCRIPTION
 
     The changes in this extension are already included in RT 4.0.
 
-TODO
-    The following features are on the TODO list:
-
-            * email about overdue reminder
-            * show 'nearly' overdue reminder on the 'RT at a glance' page
-            * use collection to show reminder lists
-
 INSTALLATION
     Installation instructions for RT-Extension-ReminderImproved:
 
@@ -38,8 +31,10 @@ INSTALLATION
 AUTHOR
     Christian Loos <cloos@netcologne.de>
 
-COPYRIGHT AND LICENCE
-    Copyright (C) 2010-2011, NetCologne GmbH. This library is free software;
-    you can redistribute it and/or modify it under the same terms as Perl
-    itself.
+LICENSE AND COPYRIGHT
+    This software is Copyright (C) 2010-2014, NetCologne GmbH.
+
+    This is free software, licensed under:
+
+      The GNU General Public License, Version 2, June 1991
 

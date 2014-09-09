@@ -4,7 +4,7 @@ use 5.008003;
 use strict;
 use warnings;
 
-our $VERSION = '0.04';
+our $VERSION = '0.06';
 
 1;
 
@@ -29,14 +29,6 @@ This plugin improve the build in reminder function of RT 3.8 with this features:
 
 The changes in this extension are already included in RT 4.0.
 
-=head1 TODO
-
-The following features are on the TODO list:
-
-	* email about overdue reminder
-	* show 'nearly' overdue reminder on the 'RT at a glance' page
-	* use collection to show reminder lists
-
 =head1 INSTALLATION
 
 Installation instructions for RT-Extension-ReminderImproved:
@@ -53,10 +45,12 @@ Installation instructions for RT-Extension-ReminderImproved:
 
 Christian Loos <cloos@netcologne.de>
 
-=head1 COPYRIGHT AND LICENCE
+=head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2010-2011, NetCologne GmbH.
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+This software is Copyright (C) 2010-2014, NetCologne GmbH.
+
+This is free software, licensed under:
+
+  The GNU General Public License, Version 2, June 1991
 
 =cut

@@ -1,6 +1,8 @@
 no warnings qw(redefine);
 use strict;
 
+package RT::Ticket;
+
 our %LINKTYPEMAP = (
     MemberOf => { Type => 'MemberOf',
                   Mode => 'Target', },
