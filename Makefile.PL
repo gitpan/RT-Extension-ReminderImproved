@@ -1,7 +1,6 @@
 use inc::Module::Install;
 
 RTx 'RT-Extension-ReminderImproved', {deprecated_rt => 1};
-license 'gplv2';
 repository 'https://github.com/cloos/RT-Extension-ReminderImproved';
 
 requires_rt '3.8.0';

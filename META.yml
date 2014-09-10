@@ -9,7 +9,7 @@ configure_requires:
 distribution_type: module
 dynamic_config: 1
 generated_by: 'Module::Install version 1.12'
-license: gplv2
+license: gpl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -27,7 +27,7 @@ requires:
 resources:
   license: http://opensource.org/licenses/gpl-license.php
   repository: https://github.com/cloos/RT-Extension-ReminderImproved
-version: 0.06
+version: 0.07
 x_module_install_rtx_version: 0.36
 x_requires_rt: 3.8.0
 x_rt_too_new: 4.0.0

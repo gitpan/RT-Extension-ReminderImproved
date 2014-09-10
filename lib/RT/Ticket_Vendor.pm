@@ -1,5 +1,6 @@
-no warnings qw(redefine);
 use strict;
+use warnings;
+no warnings qw(redefine);
 
 package RT::Ticket;
 

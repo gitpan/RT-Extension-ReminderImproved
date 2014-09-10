@@ -1,6 +1,10 @@
 Revision history for RT::Extension::ReminderImproved
 
+0.07 2014-09-10
+ - add a missing "use warnings;"
+
 0.06 2014-09-09
+ - update license from Perl to GPLv2 to match RT license
  - update Module::Install
  - let people know that this extension only works with RT 3.8
 

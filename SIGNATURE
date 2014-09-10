@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c2af183742f48864ed3bff61ba05f8c8c3f07a5f Changes
+SHA1 8f7f62a4d44e41e32ca5db4d218427925743be9f Changes
 SHA1 b74a0f4d906eaa24252d4c61967f45c147bdc5a5 MANIFEST
 SHA1 2e518a0658eec0a6ef39686480178aec5cc0f6ce MANIFEST.SKIP
-SHA1 53048ea982e8e5d9db23beb14fe7fe468f77d6fd META.yml
-SHA1 b5855bbb538d4c8cf57526e4ed5ba1b37822757a Makefile.PL
+SHA1 2b9a3db6eb9168e74e48b2c7396e2a650e85f303 META.yml
+SHA1 41d7c50e9ae53cb0dc3d5e1154ae0247b886dbf4 Makefile.PL
 SHA1 b386b53d54a6e3ffd8928d08f4ad98237564331c README
 SHA1 a58e658615de3269bb8c7652b1fe3bb9024b3236 html/Callbacks/ReminderImproved/Tools/Elements/Tabs/Default
 SHA1 98f5ccb8bd61ffc7d5658d96652b5eb851d50fee html/Callbacks/ReminderImproved/Tools/index.html/Default
@@ -41,14 +41,14 @@ SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
 SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
 SHA1 4afcd32d7a733dcf0d21f2cda456fed47012cd9c inc/YAML/Tiny.pm
 SHA1 3b39cfb54fdbc374793e4c8581a8cdf3062fb2c8 inc/unicore/Name.pm
-SHA1 83c868d4822f94677459d1f314e3861b3bdddc67 lib/RT/Extension/ReminderImproved.pm
+SHA1 62524cad1c54808fd19ed9ffabf50de455c92dc6 lib/RT/Extension/ReminderImproved.pm
 SHA1 bd95f9dd92080817f70adbc82cc0a4129cca4670 lib/RT/Reminders.pm
-SHA1 d5f155377929527e5f800790906305a878959f96 lib/RT/Ticket_Vendor.pm
+SHA1 11cb231881bcf4e785c7cc1c933914feb0c6ed4f lib/RT/Ticket_Vendor.pm
 SHA1 b57b9a352022af193ac8a1f388a4915455f2a875 po/de.po
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEARECAAYFAlQO58AACgkQTwqgb7Yxh3yNGwCfYiqvEGVpI0BzHevJKRbRE7GU
-gzcAoIp69fHezGC/aN/DBWQnvudB7wq/
-=fqnp
+iEYEARECAAYFAlQQIjQACgkQTwqgb7Yxh3xqmQCdESI0QGcn97aW+HrRNQZeQJoH
++U8An1gxh5yZh1XBNcDXUJUfnL7//bkq
+=o+C1
 -----END PGP SIGNATURE-----
